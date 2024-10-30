@@ -14,7 +14,7 @@ Soy desarrollador Back-End con sólida experiencia en la creación y optimizaci�
 - **Otros**: Diagramas Entidad-Relación, Modelo Relacional
 
 ## 🚀 Proyecto Destacados
-### Rippio
+### [Rippio](https://rippio.netlify.app)
 Una aplicación que conecta a restaurantes con personas, ofreciendo una plataforma para gestionar y descubrir opciones gastronómicas. Desarrollada con **React**, **Express**, y **PostgreSQL**.
 - [Front-End](https://github.com/DanilsGit/Rippio) | [Back-End](https://github.com/LifeRIP/rippio-backend)
 ### Liryca
