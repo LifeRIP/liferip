@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Joan
 
-### Desarrollador Back-End | Especialista en APIs | Ingeniería de Sistemas - Univalle
+### Desarrollador Back-End | Especialista en APIs | Ingeniero de Sistemas - Univalle
 
 Soy desarrollador Back-End con sólida experiencia en la creación y optimización de **APIs** y arquitecturas **cliente-servidor**. Me especializo en el uso de tecnologías modernas como **Node.js**, **Express**, **Laravel** y bases de datos como **PostgreSQL**, **MySQL** y **MariaDB**.
 
